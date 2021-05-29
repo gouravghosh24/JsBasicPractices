@@ -78,4 +78,3 @@ const StudentDB =[
         {active:false,name:"George Boyer",mark:34.9,studentgrade:''}
 ];
 console.log(GouravKv(StudentDB,item => item.name, item => item.mark,item => item.studentgrade));
-// console.log(GouravKv(ratings1.a));
