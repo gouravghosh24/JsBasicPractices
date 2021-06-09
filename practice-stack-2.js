@@ -40,7 +40,5 @@ stack.pushobj({name:"Gourav"});
 stack.pushobj({name:"Sourav"});
 
 stack.pop({name:"Gourav"});
-stack.pop({name:"Gourav"});
-stack.pop({name:"Gourav"});
 
 stack.peek();
